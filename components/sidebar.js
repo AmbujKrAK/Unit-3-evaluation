@@ -1,6 +1,5 @@
 function sidebar() {
 
-
     // return your html component here
     //Make sure to give input search box id as ""
     return `<a href="./index.html"><h2>Masai NEWS</h2></a>
